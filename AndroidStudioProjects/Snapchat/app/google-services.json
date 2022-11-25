@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590413077473",
+    "firebase_url": "https://snapchato.firebaseio.com",
+    "project_id": "snapchato",
+    "storage_bucket": "snapchato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590413077473:android:c9ba644a5b881afef390a0",
+        "android_client_info": {
+          "package_name": "com.kill_390.Snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590413077473-2mhta8mrh5e8eumr5sgii647vtd5nrut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcGzDIs4ip-QtA7D2Du-80hPu0q_WPLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590413077473-2mhta8mrh5e8eumr5sgii647vtd5nrut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

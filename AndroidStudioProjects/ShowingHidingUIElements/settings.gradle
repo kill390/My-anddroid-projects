@@ -1,0 +1,2 @@
+rootProject.name='Showing & Hiding UI Elements'
+include ':app'

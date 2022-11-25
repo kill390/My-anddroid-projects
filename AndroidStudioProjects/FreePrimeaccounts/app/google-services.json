@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518655731486",
+    "firebase_url": "https://prime-account.firebaseio.com",
+    "project_id": "prime-account",
+    "storage_bucket": "prime-account.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518655731486:android:6c0f0c2273d8846a88cb0f",
+        "android_client_info": {
+          "package_name": "com.kill390.freeprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518655731486-m0obn73qkq6q877bdqncpqkgtj7549ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmsOQPpn713n2dQq8MoGRjHb6_BF2SnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518655731486-m0obn73qkq6q877bdqncpqkgtj7549ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

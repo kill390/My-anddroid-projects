@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">listing Books-app </string>
+    <string name="internet">لا يوجد اتصال بالانترنت</string>
+    <string name="nobooks">لم يتم العثور على كتب بهذا الاسم</string>
+    <string name="search_books">" ادخل اسم الكتاب"</string>
+    <string name="settings">الاعدادات</string>
+    <string name="max">الحد الاقصى للنتائج</string>
+</resources>

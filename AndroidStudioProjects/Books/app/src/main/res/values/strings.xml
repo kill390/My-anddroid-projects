@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">listing Books-app</string>
+    <string name="internet">No Internet Connection</string>
+    <string name="nobooks">No Books Found</string>
+    <string name="search_books">Search Books</string>
+    <string name="list" translatable="false">list</string>
+    <string name="settings">Settings</string>
+    <string name="max">Max Results</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859183229717",
+    "firebase_url": "https://sqwaker-570c3.firebaseio.com",
+    "project_id": "sqwaker-570c3",
+    "storage_bucket": "sqwaker-570c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859183229717:android:349e1565e16d91df31171c",
+        "android_client_info": {
+          "package_name": "com.kill390.squawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859183229717-hacerihu9533sp5fu08mc55a1pabauaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQL99-dqlDE1c1-HJzeda1zyVCLGaHyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859183229717-hacerihu9533sp5fu08mc55a1pabauaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
